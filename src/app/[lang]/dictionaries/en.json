@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimonials",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Tony Mu",
+    "slogan": "Don't rush into buying — talk to Tony first.",
+    "tagline": "Property advisor. Tech builder. Straight talker.",
+    "cta": "Chat on WhatsApp",
+    "secondaryCta": "See what I do"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I come from a tech background — I build websites and apps for businesses. One day a friend needed help buying property, and I realised I actually enjoy the process. Fast forward to today: I've helped over 100 clients across 5+ property projects.\n\nI'm not the type to push you into signing anything. I'll walk you through your options, give you what you need to know, and let you decide on your own terms. That's what \"don't rush\" means to me.",
+    "stats": {
+      "clients": "Clients Served",
+      "projects": "Property Projects"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "What I do",
+    "property": {
+      "title": "Property Advisory",
+      "description": "Buying property in Malaysia? I'll help you understand the market, compare launches, pick the right unit, and sort out the paperwork — booking to keys. No pressure. Just straight answers."
+    },
+    "digital": {
+      "title": "Digital Solutions",
+      "description": "Need a website or app for your business? I build modern digital products with real business sense — not just pretty pixels."
+    }
+  },
+  "portfolio": {
+    "title": "My Work",
+    "subtitle": "Real projects, real results.",
+    "viewAll": "View All",
+    "viewProject": "View Project"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "What my clients say"
+  },
+  "whatsapp": {
+    "title": "Let's Talk",
+    "subtitle": "Scan the QR or tap below — I usually get back to you within a few hours.",
+    "button": "Chat on WhatsApp",
+    "or": "or"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Stuff I've picked up along the way.",
+    "readMore": "Read More",
+    "backToList": "Back to Blog"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "builtWith": "Built with"
+  }
+}

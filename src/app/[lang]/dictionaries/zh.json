@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "关于我",
+    "services": "服务",
+    "portfolio": "作品集",
+    "testimonials": "客户评价",
+    "blog": "博客",
+    "contact": "联系我"
+  },
+  "hero": {
+    "name": "Tony Mu",
+    "slogan": "买房不着急，记得找托尼",
+    "tagline": "房产顾问，也搞科技，只讲实话。",
+    "cta": "WhatsApp 聊聊",
+    "secondaryCta": "看看我做了什么"
+  },
+  "about": {
+    "title": "关于我",
+    "description": "我是做技术出身的，帮企业建网站、做应用。有一次朋友买房叫我帮忙看，结果发现自己还蛮喜欢这件事。到现在，已经服务过 100 多位客户，参与了 5 个以上的房产项目。\n\n我不是那种催你赶紧签约的顾问。我会帮你把每个选项看清楚，该知道的告诉你，决定权在你自己手上。这就是「买房不着急」的意思。",
+    "stats": {
+      "clients": "服务客户",
+      "projects": "房产项目"
+    }
+  },
+  "services": {
+    "title": "服务",
+    "subtitle": "我做什么",
+    "property": {
+      "title": "房产顾问",
+      "description": "在马来西亚买房？我帮你看懂市场、对比楼盘、选对单位、搞定手续 — 从认购到拿钥匙。不催你，不画饼，只讲实话。"
+    },
+    "digital": {
+      "title": "数字化服务",
+      "description": "企业需要网站或应用？我做的是懂生意的数字产品 — 不只是好看而已。"
+    }
+  },
+  "portfolio": {
+    "title": "我的作品",
+    "subtitle": "真实项目，真实成果。",
+    "viewAll": "查看全部",
+    "viewProject": "查看项目"
+  },
+  "testimonials": {
+    "title": "客户评价",
+    "subtitle": "我的客户怎么说"
+  },
+  "whatsapp": {
+    "title": "聊聊？",
+    "subtitle": "扫码或点下面的按钮 — 通常几个小时内回你。",
+    "button": "WhatsApp 聊聊",
+    "or": "或者"
+  },
+  "blog": {
+    "title": "博客",
+    "subtitle": "一路走来，我学到的一些事。",
+    "readMore": "阅读更多",
+    "backToList": "返回博客"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "builtWith": "使用"
+  }
+}

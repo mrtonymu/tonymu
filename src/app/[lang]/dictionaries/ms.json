@@ -1,0 +1,63 @@
+{
+  "nav": {
+    "about": "Tentang Saya",
+    "services": "Perkhidmatan",
+    "portfolio": "Portfolio",
+    "testimonials": "Testimoni",
+    "blog": "Blog",
+    "contact": "Hubungi"
+  },
+  "hero": {
+    "name": "Tony Mu",
+    "slogan": "Beli rumah jangan gopoh — cari Tony dulu.",
+    "tagline": "Penasihat hartanah. Pembina teknologi. Cakap terus terang.",
+    "cta": "WhatsApp saya",
+    "secondaryCta": "Tengok apa saya buat"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "description": "Asal usul saya dari bidang teknologi — bina web dan aplikasi untuk bisnes. Lepas tu kawan minta tolong nak beli rumah, rupanya saya memang suka buat kerja ni. Sampai hari ini, saya dah bantu lebih 100 pelanggan untuk 5+ projek hartanah.\n\nSaya bukan jenis yang push korang sign cepat-cepat. Saya akan terangkan semua pilihan, bagi info yang korang perlu tahu, dan biar korang decide sendiri. Tu lah maksud \"jangan gopoh.\"",
+    "stats": {
+      "clients": "Pelanggan Dilayan",
+      "projects": "Projek Hartanah"
+    }
+  },
+  "services": {
+    "title": "Perkhidmatan",
+    "subtitle": "Apa yang saya buat",
+    "property": {
+      "title": "Penasihat Hartanah",
+      "description": "Nak beli rumah di Malaysia? Saya bantu korang faham market, compare projek, pilih unit yang sesuai, dan settle semua paperwork — dari booking sampai dapat kunci. Takde pressure. Cakap terus je."
+    },
+    "digital": {
+      "title": "Penyelesaian Digital",
+      "description": "Bisnes perlukan website atau app? Saya bina digital product yang betul-betul faham bisnes — bukan sekadar cantik je."
+    }
+  },
+  "portfolio": {
+    "title": "Hasil Kerja Saya",
+    "subtitle": "Projek betul, hasil betul.",
+    "viewAll": "Lihat Semua",
+    "viewProject": "Lihat Projek"
+  },
+  "testimonials": {
+    "title": "Testimoni",
+    "subtitle": "Apa kata pelanggan saya"
+  },
+  "whatsapp": {
+    "title": "Jom Borak",
+    "subtitle": "Scan QR atau tekan bawah ni — biasanya saya reply dalam beberapa jam.",
+    "button": "WhatsApp saya",
+    "or": "atau"
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Benda-benda yang saya belajar sepanjang perjalanan.",
+    "readMore": "Baca Lagi",
+    "backToList": "Kembali ke Blog"
+  },
+  "footer": {
+    "rights": "Hak cipta terpelihara.",
+    "builtWith": "Dibina dengan"
+  }
+}

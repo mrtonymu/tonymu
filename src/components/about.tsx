@@ -29,20 +29,18 @@ export function About({ dict }: { dict: Dictionary }) {
       <div className="max-w-6xl mx-auto">
         <div className="grid md:grid-cols-2 gap-16 items-center">
           {/* Photo carousel */}
-          <div className="relative rounded-2xl overflow-hidden border border-border bg-surface">
+          <div className="relative aspect-3/4 rounded-2xl overflow-hidden border border-border bg-surface">
             {photos.map((photo, i) => (
               <div
                 key={i}
-                className={`transition-opacity duration-700 ease-in-out ${
-                  i === current
-                    ? "relative opacity-100"
-                    : "absolute inset-0 opacity-0 pointer-events-none"
+                className={`absolute inset-0 transition-opacity duration-700 ease-in-out ${
+                  i === current ? "opacity-100" : "opacity-0 pointer-events-none"
                 }`}
               >
                 <img
                   src={photo.src}
                   alt={photo.alt}
-                  className={`w-full block ${i === current ? "h-auto" : "h-full object-cover"}`}
+                  className="w-full h-full object-cover"
                 />
               </div>
             ))}
